@@ -13,3 +13,8 @@ This is just a small tinkering project from my OS course. It helps to create a c
 - Two Sided Chatting
 - Uses Fifo
 
+### Features of V3
+
+- One Sided Chatting
+- Uses Shared Memory
+
