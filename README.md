@@ -6,4 +6,10 @@ This is just a small tinkering project from my OS course. It helps to create a c
 ### Features of V1
 
 - One Sided Chatting
+- Uses Fifo
+
+### Features of V2
+
+- Two Sided Chatting
+- Uses Fifo
 
