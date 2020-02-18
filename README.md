@@ -18,3 +18,9 @@ This is just a small tinkering project from my OS course. It helps to create a c
 - One Sided Chatting
 - Uses Shared Memory
 
+### Features of V4
+
+- Two Sided Chatting
+- RealTime
+- Uses Shared Memory
+
