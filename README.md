@@ -24,3 +24,12 @@ This is just a small tinkering project from my OS course. It helps to create a c
 - RealTime
 - Uses Shared Memory
 
+### Features of V5
+
+- Multi Sided Chatting
+- RealTime
+- Uses Shared Memory
+- One file only
+
+
+
